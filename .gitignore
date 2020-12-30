@@ -1,0 +1,13 @@
+# This is a file for git to ignore pushing files that we don't want to push 
+
+
+# Vim file
+**/*.swp
+**/*.swo
+
+# Windows temporary files
+**/~*
+
+#Compiled directory 
+out/
+

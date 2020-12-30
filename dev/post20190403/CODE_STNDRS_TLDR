@@ -1,0 +1,131 @@
+QA09 - Code Standards--------------------------------------------------------------------------------------------------
+
+NOTE: Lines starting with "<" are for questions I have for Chris
+
+Only concerned with Java code
+
+Covers
+    1-Package organisation
+    2-Naming
+    3-Class organisation
+    4-Comments
+    5-Indentation
+    6-Existing code restrictions
+
+
+
+1) PACKAGES------------------------------------------------------------------------------------------------------------
+
+ALL PACKAGES START WITH uk.ac.aber.cs221.groupproject09
+[...].util - for classes that could be used for a wide variety of unrelated applications
+[...].mobile - for the top-level application class(es) 
+[...].mobile.app - for classes specific to mobile app
+[...].desktop - for the top-level application class(es) 
+[...].desktop.app - for classes specific to desktop software
+[...].[new name] - for classes that are shared between mobile and desktop
+
+Package names should not contain:
+    -Capital letters
+    -Underscores
+
+Maintain Javadoc comments for all packages
+
+
+
+<Examples of what goes in .app and what doesn't
+<What is package.html?
+
+
+
+2) NAMING--------------------------------------------------------------------------------------------------------------
+
+GENERAL:
+    -U.S. spelling only (colour -> color, initialise -> initialize, etc.)
+    -Describe purpose in the name as much as possible ("int counter" rather than "int x")
+    -Use constants for constant values rather than variables
+
+CLASSES/INTERFACES:
+    -Start with capital letter
+    -Use capital letters to separate words, NOT underscores
+    -For acronyms, follow the same convention (GUI -> Gui)
+
+METHODS/VARIABLES/CONSTANTS:
+    -Start with lower-case
+    -Use capital letters to separate words, NOT underscores
+    -Boolean variable names should read be like eg. townSelected, methods like eg. isTownSelected
+    -Follow conventions for basic methods (set____, get____, is_____, etc.)
+
+
+
+3) CLASS ORGANISATION--------------------------------------------------------------------------------------------------
+
+All top-level classes (not nested classes) in their own file.
+
+Group related methods together.
+Group variables with one another.
+SEE APPENDIX A FOR AN EXAMPLE TEMPLATE OF HOW TO DO CLASSES; USE AS A BASE FOR ALL CLASSES!!!
+
+Inner classes can be used to break up code complexity.
+Especially useful with GUI panels.
+
+Anonymous classes example and explanation:
+https://www.dummies.com/programming/java/how-to-create-an-anonymous-class-in-java/
+Basically an object of an interface made and then destroyed.
+ANYWAY! They can only be used to pass simple interface implementations as parameters. Example in doc!
+
+
+
+4) COMMENTS------------------------------------------------------------------------------------------------------------
+
+/** javadoc comments */
+// non-javadoc comments
+DO NOT COMMENT OUT CODE AT FINISH
+
+Each file must have a header (example in docs)
+
+Each class/interface/method should have a javadoc class header (example in docs)
+    -Different rules for inner-classes
+    -Leave a space between the description and the tags
+    -Group identical tags together
+    -Use multiple @author/version/see tags for each different _____
+    -Use @see to refer to related classes/interfaces/methods
+
+Commenting code blocks should (example in docs):
+    -Use //, even if multiple lines (though preferably keep them to one line)
+    -Be ABOVE the block, if possible
+    -Preceeded by a newline
+    -Use the same indentation as the code being described 
+
+
+
+<Who copyright?
+<Code version numbers?
+
+
+
+5) INDENTATION---------------------------------------------------------------------------------------------------------
+
+exampleCurlyBrackets {
+    //[asfd]
+} else {
+    //[asdf2]
+}
+
+Stay consistent with {} format throughout a multi-condition statement.
+
+Class name + parent on first line, interfaces on second line
+
+Method name, etc. on first name, throws on second line
+
+
+
+6) LANGUAGE RESTRICTIONS-----------------------------------------------------------------------------------------------
+
+Nested assignments - DO NOT DO! (Example in docs; basically multiple assignments = in a single expression)
+
+Exceptions should not be used just to communicate the result of a method; they should ONLY catch problems.
+
+Overloading methods is fine, but overloaded methods should all perform the same task.
+
+
+

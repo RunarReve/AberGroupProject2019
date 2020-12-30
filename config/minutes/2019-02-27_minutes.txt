@@ -1,0 +1,36 @@
+=================================================
+Project: Group Project 09
+Meeting: Wednesday Project Meeting
+
+Persons present: All present
+
+Place and date of meeting: C57a, Llandinam, Wednesday 27th February 2019 09:00
+
+Circulation list: All project members + project manager
+Author: Brandon Watkinson
+Date of minutes: 28th February 2019
+Version 1.0
+
+Matters arising
+===============
+1. UI Specification deadline met
+
+New business
+============
+
+2. Look into JUnit testing framework
+Action: sil19
+
+3. Begin looking into Android Studio to allow to begin building framework of the mobile app
+Action: bew46
+
+4. Create a rough database structure to be normalized
+Action. rur7, bew46
+
+5. Timetable to be set with soft deadlines for small sections within the software
+Action. rur7
+
+
+AOB
+===
+6. Review meeting for testing specification. Time to be decided in group chat

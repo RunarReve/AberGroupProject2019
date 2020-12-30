@@ -1,0 +1,51 @@
+Project: Group Project 09
+Meeting: Weekly Project Meeting
+Persons present:  All project members except Peter (still no contact with group) and Brandon (absent for personal reasons)
+Place and date of meeting: C57a, Llandinam, Wednesday 13th March 2019
+Circulation list: All project members (except Peter), plus project manager
+Author: Fred Ziegler
+Date of minutes: 14th March.
+Version: 1.1
+
+Matters arising
+===============
+
+1. Runar contacted the computer science faculty support team and got a database created for the group (point 3.1 of section "New Business" of minutes of 6th March).
+
+2. Brandon did not commit any updates to the group's repository over the last week, and thus did not update the repository structure in response to feedback from the client (point 3.2 of section "New Business" of minutes of 6th March). Continued personal circumstances may prevent progress in this area, so Brandon and Fred will liaise to update the repository structure within the next week.
+ACTION: ffz, brw20
+
+3. Ben J. continued to make progress with the mobile UI designs (point 3.3 of section "New Business" of minutes of 6th March). A few minor amendments are required following a further review of the User Interface Specification held over the past week (point 1 of section "AOB" of minutes of 6th March).
+ACTION: bej31
+
+4. Progress on spike work regarding Android Studio was not discussed significantly (point 3.4 of section "New Business" of minutes of 6th March).
+
+5. The use of JUnit for the purposes of testing was discussed again (point 3.5 of section "New business" of minutes of 6th March). Sid mentioned that he had created a couple of tests, but that they currently did not function as intended because they refer to methods that are currently not implemented. It was suggested that it would be useful for some members of the group to be familiar with JUnit via spike work. It was also emphasised that this form of testing usually falls within the remit of unit testing, and therefore implementation of these tests is the responsibility of the programmers implementing a specific class/method, rather than being something that can be implemented in advance to test front-end functionality of the software.
+
+
+New business
+============
+
+6. Rupert will provide a brief overview of JavaFX to Fred, and the two will experiment with this library as a form of spike work.
+ACTION: ffz, rfs11
+
+7. Ben J. will produce a text-based interface/menu system to navigate the software. The menu need not cause any direct interaction with the data (as per the final software deliverable); just a skeleton menu that allows for basic navigation is expected.
+ACTION: bej31
+
+8. Sid will write code for the behaviour of filtering a pub list. It should take a pub list as input, and return a reduced pub list based upon the filter(s) applied.
+ACTION: sil19
+
+9. Ben W., Runar, and Rupert will produce the Design Specification in time for the end of the working day Tuesday 19th.
+ACTION: bew46, rur7, rfs11
+
+10. Fred will produce a slideshow or similar document to explain the functionality and purpose of the GitLab Issues system.
+ACTION: ffz
+
+AOB
+===
+
+11. Following on from the unofficial meeting held on Monday 11th March, members who could not attend were informed of the discussions that occurred. The most significant highlight was that the development of the mobile software was decided to be prioritised before other software components.
+
+12. Further meetings are being planned for the week ahead. It is anticipated that a general meeting will occur on Friday to go over the GitLab Issues system and discuss the client's feedback on the Test Specification. A review meeting will also likely be conducted on Monday or Tuesday next week to discuss progress on the Design Specification before submission, and the updates to the User Interface Specification document.
+
+ffz@aber.ac.uk 14th March 2019

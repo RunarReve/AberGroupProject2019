@@ -1,0 +1,8 @@
+List of docs needed to be finished:
+
+- Design Specification - issues for this report are available on blackboard to complete. if they are unclear look at the email sent by Chris
+- Test Specification? - unsure whether this is finished or not as no one has specified.
+- UI specification - Needs to be adapted to the finished programs 
+- End-of-Project Report - summary for this report is in the end-of-project summary doc in the repository
+- Project Maintenance Manual - basic outline for this report can be found in the seqa 10 doc on blackboard
+- Project Test Report - summary for this report is also in the end-of-project summary doc in the repository

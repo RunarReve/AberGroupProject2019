@@ -1,0 +1,73 @@
+==========================================================
+
+Project: Group Project 09
+Meeting: Weekly Project Meeting
+
+Persons present: All project members EXCEPT Peter Licinski
+
+Place and date of meeting: LL-C57a, Wednesday 6th February, 2019 09:00
+
+Circulation list: All project members + project manager
+Author: Laurence Tyler
+Date of minutes: 8th February 2019
+Version: 1.0
+
+Matters arising:
+================
+
+None - first meeting of group
+
+New business:
+=============
+
+1. Membership of group
+
+Ben Weatherley (bew46)
+Ben James (bej31)
+Sid Limbu (sil19)
+Frederick Ziegler (ffz)
+Rupert Storer (rfs11)
+Runar Reve (rur7)
+Brandon Watkinson (brw20)
+Peter Licinski (pil9)
+
+Manager: Laurence Tyler (lgt)
+
+2. Photos of group
+
+Photos were taken of each group member present - need circulating to all members.
+ACTION: lgt
+
+3. Absences
+
+It was noted that Peter Licinski was absent. Absence from tutorials is a serious matter as it makes it difficult to take a fair part in the project. Peter needs to see Laurence Tyler ASAP to explain his absence.
+ACTION: pil9
+
+4. Setting up the project arrangements
+
+4.1 All group members need to read the project requirements (SE.QA.CSRS) and Group Project Intro documents by next week and know about what the project is trying to achieve.
+ACTION: Everyone
+
+4.2 All group members to set up a personal blog as soon as possible, and email a link to their blog to Laurence Tyler (lgt)
+ACTION: Everyone
+
+5. Initial Tasks
+
+5.1 Runar and Brandon to start thinking about architecture and implementation - what kind of code, frameworks, possible problems, pros & cons of different approaches.
+ACTION: rur7, brw20
+
+5.2 Ben W and Ben J to read SE.QA.04 (UI specification) and start thinking about what the screens look like - how the interface should look to the user, use cases etc.
+ACTION: bew46, bej31
+
+5.3 Sid and Frederick to read SE.QA.06 and start thinking about the test specification and system tests.
+ACTION: sil19, ffz
+
+
+AOB
+===
+
+1. Communications channel to be set up: Facebook chat/messenger.
+ACTION: ALL
+
+
+==========================================================

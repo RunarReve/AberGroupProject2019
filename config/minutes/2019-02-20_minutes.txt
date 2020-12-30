@@ -1,0 +1,69 @@
+=================================================
+Project: Group Project 09
+Meeting: Wednesday Project Meeting
+
+Persons present: All present except Peter Licinski (still no contact)
+
+Place and date of meeting: C57a, Llandinam, Wednesday 20th February 2019 09:00
+
+Circulation list: All project members + project manager
+Author: Brandon Watkinson
+Date of minutes: 20th February 2019
+Version 1.0
+
+Matters arising
+===============
+1. Action and members missing from last weeks minutes point 5.
+Action: brw20
+
+2. Blog entries missing for this week. Missing entries due by 21st February.
+Action: All
+
+3. UI: Reviewed draft of UI specification due next week. Drafts of UI of desktop app shown and talked through. 
+
+4. Testing: Ran through drafts of testing specifications for both desktop and mobile app.
+
+5. Architeture: Ran out of time for review of architecture drafts. To be discussed next week. 
+
+
+
+New business
+============
+UI: 
+
+6. Continue to refine draft of specification for review before Wednesday deadline.
+Action: bew46, bej31
+
+7. Look into potential to add Google maps (whether through pop up or embedded into UI) to replace need to find and input individual coordinates.
+Action: bew46, bej31
+
+8. Potential for wider array of usecases outside of a single student (possibly a group of people or a sports team) who would have different requirements out of the software than 1 person.
+Action: bew46, bej31
+
+
+Testing:
+
+9. Now UI designs are submitted, refine testing specifications to more suitably fit the design of the software.
+Action: sil19, ffz
+
+10. Tests need to be more specific in nature to enable them to be repeatable.
+Action: sil19
+
+11. Begin draft of test specification for review in next Wednesday meeting.
+Action: sil19, ffz
+
+AOB
+===
+12. Project leader appointed: rur7
+
+13. Deputy project leader appointed: bew46
+
+14. QA manager appointed: brw20
+
+15. Deputy QA manager appointed: ffz
+
+16. Review meeting for UI design specification to be organised before Wednesdays meeting to ensure quality before deadline.
+Action: All
+
+17. Structure file repository to comply with QA specification
+Action: brw20

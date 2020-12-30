@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark">
+
+    <TextView
+        android:id="@+id/textView_orangeBackground"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="24dp"
+        android:background="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/textView_blackBackground"
+        android:layout_width="376dp"
+        android:layout_height="49dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        android:background="@color/colorPrimaryDark" />
+
+
+    <TextView
+        android:id="@+id/textView_LocationName"
+        android:layout_width="153dp"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="41dp"
+        android:text="TextView"
+        android:textColor="@color/colorPrimary"
+        android:textSize="24sp" />
+
+
+    <Button
+        android:id="@+id/btn_select_location"
+        android:layout_width="351dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView_blackBackground"
+        android:layout_alignTop="@+id/textView_blackBackground"
+        android:background="#00ffffff" />
+
+</RelativeLayout>

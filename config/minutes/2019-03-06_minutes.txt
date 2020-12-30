@@ -1,0 +1,61 @@
+==========================================================
+
+Project: Group Project 09
+Meeting: Weekly Project Meeting
+
+Persons present: 
+Ben Weatherley (bew46)
+Ben James (bej31)
+Sid Limbu (sil19)
+Rupert Storer (rfs11)
+Runar Reve (rur7)
+
+Place and date of meeting: LL-C57a, Wednesday 6th March, 2019 09:00
+
+Circulation list: All project members + project manager
+Author: Ben Weatherley
+Date of minutes: 6th March 2019
+Version: 1.0
+
+Matters arising:
+================
+1. UI Specification comments recived
+2. Test Specification deadline met
+
+New business:
+=============
+
+1. Apologies
+Frederick Ziegler (ffz) and Brandon Watkinson (brw20) sent their apologies and could not attend the meeting. 
+
+2. Blog posts
+
+It was noted that Brandon and Ben J had no blog posts for the week, and that Ben W blog post was too short
+
+3. Weekly tasks
+
+3.1 Runar and Brandon to set up a basic SQL server and try and add a test Pub
+ACTION: rur7, brw20
+
+3.2 Brandon to read SE.QA.08 and get the repository up to standard
+ACTION: brw20
+
+3.3 Ben J to finish and upload mobile UI designs 
+ACTION: bej31
+
+3.4 Ben W and Rupert to begin building some mobile designs in android studio
+ACTION: bew46, rfs11
+
+3.5 Fred and Sid to begin creting some junit tests with placeholder method calls
+ACTION: ffz, sil19
+
+
+
+
+AOB
+===
+
+1. Hold a review for the UI specification and decide what to change in regards to Chris's comments
+ACTION: bew46, bej31, rur7 and rfs11
+
+==========================================================

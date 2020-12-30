@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pubicon">
+        <item>@android:drawable/ic_secure</item>
+    </array>
+    <array name="pubnames">
+        <item>"The Cambrian"</item>
+        <item>"Wetherspoons"</item>
+        <item>"Pub 3"</item>
+        <item>"Pub 4"</item>
+        <item>"Pub 5"</item>
+        <item>"Pub 6"</item>
+        <item>"Pub 7"</item>
+        <item>"Pub 8"</item>
+        <item>"Pub 9"</item>
+        <item>"Pub 10"</item>
+        <item>"Pub 11"</item>
+    </array>
+    <array name="pubdesc">
+        <item>"The Cambrian is a very uni centered..."</item>
+        <item>"Cheap and cheerful with decent food"</item>
+        <item>"This is the description for Pub 3"</item>
+        <item>"This is the description for Pub 4"</item>
+        <item>"This is the description for Pub 5"</item>
+        <item>"This is the description for Pub 6"</item>
+        <item>"This is the description for Pub 7"</item>
+        <item>"This is the description for Pub 8"</item>
+        <item>"This is the description for Pub 9"</item>
+        <item>"This is the description for Pub 10"</item>
+        <item>"This is the description for Pub 11"</item>
+    </array>
+</resources>

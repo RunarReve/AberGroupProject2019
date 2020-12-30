@@ -1,0 +1,48 @@
+Everything that you need to edit is under dev\20190428\GUILink
+ad under the pacage GUI.
+
+.fxml files is the place where everything GUI happens, like making, diplaying stuff
+*Controller.java is the "brain" of the .fxml with similatr names where functions will be to the GUI
+
+TODO:
+
+	.fxml
+	Format so everything isn't on the same line to be more readable
+		eg: 
+		    <Button layoutX="483.0" layoutY="346.0" mnemonicParsing="false" text="Save and Exit" />
+	
+	
+	Add IDs to the Buttons for java to know what button it is (fx:id ="...")
+		eg:
+			fx:id="backBtn"
+			
+	Add Action to the buttons for java to know what function to call when the button is pressed (onAction="#...")
+	remember the # in front of the function name
+		eg: onAction="#moveBack"
+		
+	move Text up to under onAction, not important, but makes it a bit easier to find if need to edit
+	
+	
+	
+	*Controller.java
+	
+	Create the buttons, needs to be the same name as the fx:id in connected .fxml (public Button ...;)
+		eg:  public Button backBtn;
+	
+	Make function with same name as the onAction(without the #)(public void moveBack(ActionEvent event)throws IOException)
+	Depending on what function it is:
+	If it is a change scene button copy the other moveScene buttons in the pagage, eg: mainMenueController
+		then change the string on the first line of function to the .fxml to move to
+	If it's something else, just make a empty function for now
+	
+	
+	Note: 
+		for what connects to what, see the "UI page link.pub" 
+		when importing ActionEvent, intellij often imports "java.awk.event.ActionEvent"
+			this is the wrong one, change to "javafx.event.ActionEvent"
+			
+			
+	More info:
+	Playlist for basic JavaFX: 	https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG
+	How to link scenes:			https://www.youtube.com/watch?v=XCgcQTQCfJQ&t=509s
+			

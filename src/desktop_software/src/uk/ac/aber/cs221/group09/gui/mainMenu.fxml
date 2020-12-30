@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<AnchorPane id="menuUi"
+            maxHeight="-Infinity"
+            maxWidth="-Infinity"
+            minHeight="-Infinity"
+            minWidth="-Infinity"
+            prefHeight="400.0"
+            prefWidth="600.0"
+            xmlns:fx="http://javafx.com/fxml/1"
+            xmlns="http://javafx.com/javafx/2.2"
+            fx:controller="uk.ac.aber.cs221.group09.GUI.MainMenuController">
+
+<children>
+    <Label layoutX="55.0"
+           layoutY="43.0"
+           prefHeight="66.0"
+           prefWidth="222.0"
+           text="Choose the town you want to edit from the list, or enter a new town name to create it:"
+           wrapText="true" />
+    <ListView
+            fx:id = "listViewTown"
+            layoutX="55.0"
+            layoutY="109.0"
+            prefHeight="200.0"
+            prefWidth="200.0" />
+
+    <Label layoutX="300.0"
+           layoutY="124.0"
+           text="Enter town name:" />
+
+    <Label fx:id="errorText"
+           layoutX="371.0"
+           layoutY="290.0"
+           text =" "/>
+
+    <TextField fx:id="townNameField"
+            layoutX="400.0"
+            layoutY="121.0"
+            prefWidth="159.0"
+            promptText="Town"/>
+
+    <!--fx:id is the name of the object Button in java
+        onAction is the function that is called
+        text is what is being displayed on te button
+        The rest is just xCoordinate stuff-->
+    <Button fx:id="continueBtn"
+            onAction="#moveNextScene"
+            text="Continue"
+            layoutX="186.0"
+            layoutY="324.0"
+            mnemonicParsing="false"/>
+    <Button fx:id="createTownBtn"
+            onAction="#createTown"
+            text="Create Town"
+            layoutX="371.0"
+            layoutY="174.0"
+            mnemonicParsing="false"
+            prefHeight="44.0"
+            prefWidth="69.0"
+            textAlignment="CENTER"
+            wrapText="true" />
+    <Button fx:id="createTownAndNextBtn"
+            onAction="#createTownAndNext"
+            text="Create Town and Add Pubs"
+            layoutX="448.0"
+            layoutY="174.0"
+            mnemonicParsing="false"
+            prefHeight="45.0"
+            prefWidth="111.0"
+            textAlignment="CENTER"
+            wrapText="true" />
+    <Button fx:id="deleteBtn"
+            onAction="#deleteTown"
+            text="Delete Town"
+            layoutX="371.0"
+            layoutY="230.0"
+            mnemonicParsing="false"
+            prefHeight="45.0"
+            prefWidth="111.0"
+            textAlignment="CENTER"
+            wrapText="true" />
+</children>
+</AnchorPane>

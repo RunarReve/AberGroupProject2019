@@ -1,0 +1,58 @@
+REQUIRED DIRECTORIES:
+
+-docs/
+   
+	-design_specification/
+
+	-test_specification/
+
+	-user_interface_document/
+
+	-maintenance_manual/
+
+	-end-of-project_report/
+
+-config/
+
+	-minutes/
+
+	-config_refs.??? [FILE!]
+-src/
+   
+	*-mobile_system/
+	*-desktop_system/
+
+-dev/
+
+    	-20190206/
+
+    	-20190213/
+
+    	-20190220/
+
+    	-20190227/
+
+    	-20190306/
+
+    	-20190313/
+
+    	-20190320/
+
+    	-20190327/
+
+    	-20190403/
+
+
+
+[Additional directories may be created as required, although the purposes of the required directories are quite comprehensive.]
+
+
+
+
+
+
+
+
+
+
+* Suggested but not enforced.

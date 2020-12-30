@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.shape.*?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2">
+  <children>
+    <Label layoutX="39.0" layoutY="38.0" text="Currently uploaded photos (max 5):" />
+    <Label layoutX="39.0" layoutY="87.0" text="(empty)" />
+    <Label layoutX="39.0" layoutY="121.0" text="(empty)" />
+    <Label layoutX="39.0" layoutY="158.0" text="(empty)" />
+    <Label layoutX="39.0" layoutY="192.0" text="(empty)" />
+    <Label layoutX="39.0" layoutY="229.0" text="(empty)" />
+    <Button layoutX="237.0" layoutY="85.0" mnemonicParsing="false" text="Remove" textFill="RED" />
+    <Button layoutX="237.0" layoutY="122.0" mnemonicParsing="false" text="Remove" textFill="RED" />
+    <Button layoutX="237.0" layoutY="156.0" mnemonicParsing="false" text="Remove" textFill="RED" />
+    <Button layoutX="237.0" layoutY="190.0" mnemonicParsing="false" text="Remove" textFill="RED" />
+    <Button layoutX="237.0" layoutY="227.0" mnemonicParsing="false" text="Remove" textFill="RED" />
+    <Label layoutX="39.0" layoutY="282.0" text="Add new photo:" />
+    <Label layoutX="39.0" layoutY="306.0" text="Upload File:" />
+    <Button layoutX="179.0" layoutY="304.0" mnemonicParsing="false" text="Choose File" />
+    <Button layoutX="483.0" layoutY="346.0" mnemonicParsing="false" text="Save and Exit" />
+    <Button layoutX="174.0" layoutY="85.0" mnemonicParsing="false" text="View" textFill="BLACK" />
+    <Button layoutX="174.0" layoutY="122.0" mnemonicParsing="false" text="View" textFill="BLACK" />
+    <Button layoutX="174.0" layoutY="156.0" mnemonicParsing="false" text="View" textFill="BLACK" />
+    <Button layoutX="174.0" layoutY="190.0" mnemonicParsing="false" text="View" textFill="BLACK" />
+    <Button layoutX="174.0" layoutY="227.0" mnemonicParsing="false" text="View" textFill="BLACK" />
+    <Button layoutX="39.0" layoutY="346.0" mnemonicParsing="false" text="Discard Changes" />
+    <Label layoutX="392.0" layoutY="54.0" text="Currently viewing image:" />
+    <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="129.0" layoutX="392.0" layoutY="102.0" stroke="BLACK" strokeType="INSIDE" width="152.0" />
+  </children>
+</AnchorPane>

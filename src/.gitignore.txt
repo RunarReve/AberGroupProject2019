@@ -1,0 +1,4 @@
+# This is a file for git to ignore pushing files that we don't want to push 
+
+#idea files created by the intelij that always changes
+.idea/

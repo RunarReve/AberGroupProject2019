@@ -1,0 +1,26 @@
+---DEFINITIONS/FUNCTIONALITY
+Issues in GitLab act like a globally-visible noticeboard for changes/additions that need to happen to the project. They can be commented on, which can be used for feedback, suggestions, describing progress on an issue, and confirming that an issue has been completed. They can also be rated up and down and can have emojis applied to them; the purpose for most of this escapes me, but upvoting could be used by others to indicate priority/urgency. 
+
+An assignee can be applied to an issue, indicating who is responsible for fixing it. Only a maximum of one person (or nobody specific) may be assigned to an issue. It may be possible that an issue can be completed by somebody other than the assignee (I cannot test this at the time of writing this document), but try not to do this if it is possible; instead, ask the person responsible for an ETA, or talk to the project leader if it's urgent (and get yourself set as the assignee!). 
+
+Related issues can be grouped together under a common "Milestone" (Eg. "Create Mobile System"), especially when a task is big and has lots of little steps. As you complete issues related to a milestone, a progress bar fills up, visualising roughly how complete it is.
+
+Labels can be applied to issues, and are used as a tagging system to easily describe/categorise types of issues together.
+
+Boards are used to visualise the stages of development that issues go through. "Backlog" and "Done" are the default lists, and SE.QA.08 suggests the presence of the additional "Doing" and "Reviewing" lists, but more lists can be made based off of the labels that have been made.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---RESPONSIBILITIES
+-All
+1) All tasks (eg. wherever "ACTION:" appears in a minutes document) should be created and managed in the Issues section in GitLab.
+2) Always communicate with others working on the same file/subdirectory before committing to make sure you don't overwrite each other's changes.
+3) Whenever you commit something to the GitLab repository that relates to an issue, your commit message should refer to the appropriate issue number.
+4) With issues related to our assessed pdf documents: set the document's status to "Draft" (at the top of the doc) whilst editing; then set the status to "For Review" when you are finished editing; then commit the changes; and, finally, move the issue to the "Review" board rather than closing the issue.  
+
+-QA Manager
+5) Ensure that the above responsibilities are being carried out (eg. set more tasks if appropriate, eg. gently nudge those who aren't following the above).
+6) Ensure that tests are created to test that problems have been eliminated (eg. by assigning somebody to create these tests and perform them).
+7) Oversee issues in the "Review" board to check that changes have been carried out effectively, and organise a review meeting if it is appropriate. When these issues are completed, set their status to "Release" (at the top of the doc), and close the issue to mark it as done.

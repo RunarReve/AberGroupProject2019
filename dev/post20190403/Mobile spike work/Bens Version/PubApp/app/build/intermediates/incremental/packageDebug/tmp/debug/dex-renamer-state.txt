@@ -1,0 +1,4 @@
+#Thu May 02 13:33:13 BST 2019
+base.0=/impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0"
+        prefWidth="600.0"
+        xmlns="http://javafx.com/javafx/8"
+        xmlns:fx="http://javafx.com/fxml/1"
+        fx:controller="uk.ac.aber.cs221.group09.GUI.PubMenuController">
+    <Button fx:id="backBtn"
+              onAction="#backButton"
+              layoutX="24.0"
+              layoutY="361.0"
+              mnemonicParsing="false"
+              prefHeight="23.0"
+              prefWidth="120.0"
+              text="Back">
+         <font>
+            <Font size="12.0" />
+         </font>
+        </Button>
+    <ListView fx:id="listViewPub"
+                layoutX="24.0"
+                layoutY="130.0"
+                prefHeight="222.0"
+                prefWidth="196.0"
+      />
+    <Label fx:id ="townText"
+             layoutX="24.0"
+             layoutY="20.0"
+             prefHeight="66.0"
+             prefWidth="222.0"
+             text="You have loaded XXXX"
+            wrapText="true">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+    <Label fx:id="errorText"
+           layoutX="300.0"
+           layoutY="200.0"
+           text=" " />
+
+    <Label
+            layoutX="24.0"
+            layoutY="70.0"
+            prefHeight="66.0"
+            prefWidth="222.0"
+            text="Select a pub"
+            wrapText="true">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+    <Button fx:id="deletePub"
+              layoutX="300.0"
+              layoutY="317.0"
+              mnemonicParsing="false"
+              onAction="#deleteSelectedPub"
+              prefHeight="39.0"
+              prefWidth="205.0"
+              text="Delete Selected Pub">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+    <Button fx:id="editPub"
+              layoutX="300.0"
+              layoutY="271.0"
+              mnemonicParsing="false"
+              onAction="#editSelectedPub"
+              prefHeight="39.0"
+              prefWidth="205.0"
+              text="Edit Selected Pub">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+    <Button fx:id="createPub"
+              layoutX="300.0"
+              layoutY="222.0"
+              mnemonicParsing="false"
+              onAction="#createNewPub"
+              prefHeight="39.0"
+              prefWidth="205.0"
+              text="Add a new Pub">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+
+</AnchorPane>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pub App</string>
+    <string name="title_activity_maps_screen">Map</string>
+    <string name="empty_tour_header">You haven\'t created a pub tour list yet please press one of the buttons below:</string>
+    <string name="random_tour_btn_txt">Create random pub tour with currently selected filters</string>
+    <string name="new_tour_btn_txt">Create New Pub Tour</string>
+    <string name="btn_goto_location_txt">Change Current Location</string>
+    <string name="btn_goto_pubs_txt">View Pubs/Create Pub Crawl</string>
+    <string name="btn_goto_filter_txt">Filter Pubs</string>
+    <string name="btn_goto_crawl_txt">View Pub Crawl</string>
+    <string name="beer_image_desc">A pint of beer</string>
+    <string name="txt_grats_msg">You have completed your pub crawl!</string>
+    <string name="txt_grats">CONGRATULATIONS!</string>
+</resources>

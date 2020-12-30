@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".FilterActivity"
+    tools:layout_editor_absoluteY="25dp">
+
+    <SeekBar
+        android:id="@+id/barClub"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="384dp"
+        android:layout_height="73dp"
+        android:background="@android:color/black"
+        android:max="2"
+        android:progress="1"
+        android:progressBackgroundTint="@color/colorPrimary"
+        android:progressTint="@color/colorPrimary"
+        android:thumbTint="@color/colorPrimary"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food8" />
+
+    <SeekBar
+        android:id="@+id/barTV"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="384dp"
+        android:layout_height="73dp"
+        android:background="@android:color/black"
+        android:max="2"
+        android:progress="1"
+        android:progressBackgroundTint="@color/colorPrimary"
+        android:progressTint="@color/colorPrimary"
+        android:thumbTint="@color/colorPrimary"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food9" />
+
+    <SeekBar
+        android:id="@+id/barMusic"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="384dp"
+        android:layout_height="73dp"
+        android:background="@android:color/black"
+        android:max="2"
+        android:progress="1"
+        android:progressBackgroundTint="@color/colorPrimary"
+        android:progressTint="@color/colorPrimary"
+        android:thumbTint="@color/colorPrimary"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food7" />
+
+    <SeekBar
+        android:id="@+id/barFood"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="384dp"
+        android:layout_height="73dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:color/black"
+        android:max="2"
+        android:progress="1"
+        android:progressBackgroundTint="@color/colorPrimary"
+        android:progressTint="@color/colorPrimary"
+        android:thumbTint="@color/colorPrimary"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food6" />
+
+    <SeekBar
+        android:id="@+id/barAle"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="384dp"
+        android:layout_height="73dp"
+        android:background="@android:color/black"
+        android:max="2"
+        android:progress="1"
+        android:progressBackgroundTint="@color/colorPrimary"
+        android:progressTint="@color/colorPrimary"
+        android:thumbTint="@color/colorPrimary"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food4" />
+
+    <SeekBar
+        android:id="@+id/barDogs"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="384dp"
+        android:layout_height="73dp"
+        android:background="@android:color/black"
+        android:max="2"
+        android:progress="1"
+        android:progressBackgroundTint="@color/colorPrimary"
+        android:progressTint="@color/colorPrimary"
+        android:thumbTint="@color/colorPrimary"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food5" />
+
+    <TextView
+        android:id="@+id/no5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="No"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toStartOf="@+id/no-Preferance4"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food5" />
+
+    <TextView
+        android:id="@+id/no6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="No"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toStartOf="@+id/no-Preferance4"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food7" />
+
+    <TextView
+        android:id="@+id/no8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="No"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toStartOf="@+id/no-Preferance4"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food8" />
+
+    <TextView
+        android:id="@+id/no9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="No"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toStartOf="@+id/no-Preferance4"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food4" />
+
+    <TextView
+        android:id="@+id/no7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="No"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toStartOf="@+id/no-Preferance4"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food9" />
+
+    <TextView
+        android:id="@+id/yes5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="Yes"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/no-Preferance4"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food5" />
+
+    <TextView
+        android:id="@+id/yes7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="Yes"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/no-Preferance4"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food7" />
+
+    <TextView
+        android:id="@+id/yes8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="Yes"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/no-Preferance4"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food8" />
+
+    <TextView
+        android:id="@+id/yes9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="Yes"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/no-Preferance4"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food9" />
+
+    <TextView
+        android:id="@+id/yes6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="Yes"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/no-Preferance4"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food4" />
+
+    <TextView
+        android:id="@+id/no-Preferance5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="No preferance"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toStartOf="@+id/yes5"
+        app:layout_constraintStart_toEndOf="@+id/no5"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food5" />
+
+    <TextView
+        android:id="@+id/no-Preferance6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="No preferance"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toStartOf="@+id/yes7"
+        app:layout_constraintStart_toEndOf="@+id/no6"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food7" />
+
+    <TextView
+        android:id="@+id/no-Preferance10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="No preferance"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toStartOf="@+id/yes8"
+        app:layout_constraintStart_toEndOf="@+id/no8"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food8" />
+
+    <TextView
+        android:id="@+id/no-Preferance12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="No preferance"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toStartOf="@+id/yes9"
+        app:layout_constraintStart_toEndOf="@+id/no7"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food9" />
+
+    <TextView
+        android:id="@+id/no-Preferance11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="No preferance"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toStartOf="@+id/yes6"
+        app:layout_constraintStart_toEndOf="@+id/no9"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food4" />
+
+    <TextView
+        android:id="@+id/servers-Food6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="32dp"
+        android:text="Serves Food"
+        android:textColor="@color/colorPrimary"
+        app:fontFamily="sans-serif"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/constraintLayout" />
+
+    <TextView
+        android:id="@+id/servers-Food4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Real Ale"
+        android:textColor="@color/colorPrimary"
+        app:fontFamily="sans-serif"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food6" />
+
+    <TextView
+        android:id="@+id/servers-Food5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Allows Dogs"
+        android:textColor="@color/colorPrimary"
+        app:fontFamily="sans-serif"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food4" />
+
+    <TextView
+        android:id="@+id/servers-Food7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Loud Music"
+        android:textColor="@color/colorPrimary"
+        app:fontFamily="sans-serif"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food5" />
+
+    <TextView
+        android:id="@+id/servers-Food8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Club"
+        android:textColor="@color/colorPrimary"
+        app:fontFamily="sans-serif"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food7" />
+
+    <TextView
+        android:id="@+id/servers-Food9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Has TV"
+        android:textColor="@color/colorPrimary"
+        app:fontFamily="sans-serif"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food8" />
+
+    <TextView
+        android:id="@+id/no4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="No"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toStartOf="@+id/no-Preferance4"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food6" />
+
+    <TextView
+        android:id="@+id/no-Preferance4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="No preferance"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/barFood"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food6" />
+
+    <TextView
+        android:id="@+id/yes4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:text="Yes"
+        android:textColor="@color/colorPrimary"
+        android:textSize="12sp"
+        app:fontFamily="sans-serif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/no-Preferance4"
+        app:layout_constraintTop_toBottomOf="@+id/servers-Food6" />
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="0dp"
+        android:layout_height="22dp"
+        android:background="@color/colorPrimary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="24dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:background="#0000ddff"
+            android:onClick="back"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/btn_home"
+            android:layout_width="24dp"
+            android:layout_height="20dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:background="#0000ddff"
+            android:onClick="goHome"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+
+        <ImageView
+            android:id="@+id/home_img"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginBottom="1dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:onClick="goHome"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:srcCompat="@mipmap/home_foreground" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="18dp"
+            android:layout_height="24dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@mipmap/back_foreground" />
+
+    </android.support.constraint.ConstraintLayout>
+
+    <Button
+        android:id="@+id/btn_startTour2"
+        android:onClick="doFilter"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@color/colorPrimary"
+        android:text="Filter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btn_configureIntervalTime" />
+
+</android.support.constraint.ConstraintLayout>

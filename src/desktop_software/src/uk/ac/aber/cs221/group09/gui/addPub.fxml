@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+
+<?import javafx.scene.text.Text?>
+<AnchorPane id="addPub"
+            maxHeight="-Infinity"
+            maxWidth="-Infinity"
+            minHeight="-Infinity"
+            minWidth="-Infinity"
+            prefHeight="400.0"
+            prefWidth="600.0"
+            xmlns:fx="http://javafx.com/fxml/1"
+            xmlns="http://javafx.com/javafx/2.2"
+            fx:controller="uk.ac.aber.cs221.group09.GUI.AddPubController">
+
+  <children>
+    <Label  fx:id="townText"
+            layoutX="35.0"
+            layoutY="31.0"
+            text="You are currently adding pubs to Aberystwyth's list." />
+    <Label layoutX="35.0" layoutY="61.0" text="Name" />
+    <Label layoutX="35.0" layoutY="99.0" text="Description" />
+    <Label layoutX="35.0" layoutY="177.0" text="Address" />
+    <Label layoutX="35.0" layoutY="220.0" text="Characteristics" />
+    <Label layoutX="35.0" layoutY="274.0" text="Photos" />
+    <Label layoutX="270.0" layoutY="210.0" text="Y: " />
+    <Label layoutX="270.0" layoutY="235.0" text="X: " />
+
+    <Label layoutX="300.0" layoutY="210.0" text="---" fx:id="xCoords" />
+    <Label layoutX="300.0" layoutY="235.0" text="---" fx:id="yCoords" />
+
+    <Label fx:id="errorLabel" layoutX="140" layoutY="357.0" text=" "/>
+    <TextField fx:id="nameField"
+            layoutX="140.0"
+            layoutY="58.0"
+            prefWidth="200.0" />
+    <TextField fx:id="descriptionField"
+            layoutX="140.0"
+            layoutY="96.0"
+            prefHeight="72.0"
+            prefWidth="295.0" />
+
+    <TextField fx:id="address"
+               layoutX="140.0"
+               layoutY="175.0"
+               prefWidth="130.0"
+               promptText="Address"/>
+    <TextField fx:id="postCode"
+               layoutX="285.0"
+               layoutY="175.0"
+               prefWidth="100.0"
+               promptText="Post Code"/>
+    <TextField fx:id="googleLink"
+              layoutX="300.0"
+              layoutY="272.0"
+              text=" "/>
+    <TextField fx:id="imgLink"
+               layoutX="140.0"
+               layoutY="272.0"
+               text=" "
+               promptText="Photo Link"/>
+
+    <Button fx:id="pictureBtn"
+            onAction="#openPicture"
+            layoutX="140.0"
+            layoutY="300.0"
+            mnemonicParsing="false"
+            text="Se Image" />
+    <Button fx:id="backBtn"
+            onAction="#moveBack"
+            text="Back"
+            layoutX="26.0"
+            layoutY="357.0"
+            mnemonicParsing="false" />
+    <Button fx:id="savePub"
+            onAction="#savePubAndBack"
+            layoutX="346.0"
+            layoutY="349.0"
+            mnemonicParsing="false"
+            prefHeight="38.0"
+            prefWidth="124.0"
+            text="Save Changes and Return to Menu"
+            textAlignment="CENTER"
+            wrapText="true" />
+    <Button fx:id="saveAndNewBtn"
+            onAction="#saveAndNewPub"
+            layoutX="489.0"
+            layoutY="357.0"
+            mnemonicParsing="false"
+            text="Add Next Pub" />
+    <Button fx:id="filterBtn"
+            onAction="#openFilter"
+            layoutX="140.0"
+            layoutY="220.0"
+            mnemonicParsing="false"
+            text="Add Characteristics" />
+    <Button fx:id="addressBtn"
+            onAction="#getCoordination"
+            layoutX="400.0"
+            layoutY="175.0"
+            mnemonicParsing="false"
+            text="OK" />
+  </children>
+</AnchorPane>

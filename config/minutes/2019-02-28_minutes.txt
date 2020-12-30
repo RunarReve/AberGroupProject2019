@@ -1,0 +1,49 @@
+Project: Group Project 09
+Meeting: Test Specification Review Meeting
+Persons present:  Benjamin James, Sid Limbu, Runar Reve, and Fred Ziegler. Brandon Watkinson (QA Manager) could not attend as planned (the meeting coincided with a lecture)
+Place and date of meeting: Think Tank, Llandinam, Thursday 28th February 2019
+Circulation list: All attendees, plus QA Manager
+Author: Fred Ziegler
+Date of minutes: 28th February.
+Version: 1.1
+
+Matters arising
+===============
+
+1. Sid and Fred produced a draft of the Test Specification (point 6 of minutes of 27th February). They walked through the tests, and discussed individual tests with Benjamin and Runar throughout the meeting. Several improvements were suggested by the group (detailed below), and the document remains in "Draft" status for the time being. A further review should be considered before the submission deadline for the document.
+
+2. We briefly revisited the task of spike work with the software "Android Studio" (point 3 of minutes of 27th February). No attendees had made significant progress with the software in the short time since the previous meeting, but the task of experimenting with it and potentially constructing mock-up user interfaces was reiterated.
+
+New business
+============
+
+3. Sid will update the desktop portion of the tests in the following ways:
+-Replace test 4 with a test for entering the name of a town that already has a pub list created for it, resulting in an error;
+-Create a few tests for name inputs for towns, producing errors in the cases of strings that include numbers, punctuation (excluding hyphens, full stops, spaces, and apostrophes), those that are too long (consider the longest town name in the UK for reference), and those that are empty;
+-Create a test for duplicate pub names within the same pub list, resulting in a warning; 
+-Create a few tests for pub name length boundaries. Runar suggested a maximum of 50 characters for each pub's name; 
+-Create a test for entering duplicate photos for a pub (based on their file name), resulting in an error;
+-Create a test for removing photos from a pub, making sure the remaining photos move correctly when a photo is removed from the centre/top of the list of photos;
+-Remove test 31 as the design for the program has changed;
+-Update the tests for FRD7 to focus on the process of exporting the pubs and pub lists, rather than the success of their import onto the mobile system.
+ACTION: sil19
+
+4. Fred will merge Sid's changes into the Test Specification, and update the mobile portion of the tests in the following ways:
+-Update the filter tests to reflect the behaviour of sliders, rather than tick boxes;
+-Create tests for navigating in and out of multiple pub information screens to ensure that the correct pub's information is displayed;
+-Create tests for when entering a number of pubs to use in a randomised pub crawl, involving inputs of punctuation and mathematical sums, and resulting in errors;
+-Significantly reduce the number of tests for FRM4 and FRM5, because the prospective implementation of the pub crawl functions should work regardless of whether the input list is filtered or not;
+-Create tests for organised pub crawl chronology, preventing duplicate time slots and entering pubs out of order;
+-Significantly reduce the number of tests for FRM2, because the prospective code for filters should work the same regardless of which filters are being applied.
+ACTION: ffz
+
+AOB
+===
+
+5. We discussed the potential of a Welsh language filter, concerning issues of extensibility, purpose, and definition. We decided to exclude any mention of the filter in the Test Specification, and to potentially revisit its feasibility when programming the filters. The client may also be consulted during this time to ask if they approve of its inclusion.
+
+6. The design decision of whether the filters would be activated via check boxes, sliders, or radio buttons was revisited. The general attitude was a preference for sliders, but the design may still change in future.
+
+7. We discussed the implementation of user-defined times when generating an organised pub crawl. A system involving restricted time slots or selectable intervals was generally preferred over one using purely user-defined times. The exact implementation will be revisited at a later time, and after reviewing the Requirements Specification to ensure that the proposed implementation satisfies the project requirements.
+
+ffz@aber.ac.uk 28th February 2019

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="cs22120_18_19_csgp09@db.dcs.aber.ac.uk" uuid="cb637a7e-8f30-436a-a586-cc5bf1f7c9f9">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db.dcs.aber.ac.uk:5432/cs22120_18_19_csgp09</jdbc-url>
+    </data-source>
+  </component>
+</project>

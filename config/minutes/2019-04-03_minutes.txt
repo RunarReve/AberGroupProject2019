@@ -1,0 +1,65 @@
+Project: Group Project 09
+Meeting: Weekly Project Meeting
+Persons present:  All project members except Peter (still no contact with group), Brandon (no longer on the course), and Rupert (illness)
+Place and date of meeting: C57a, Llandinam, Wednesday 3rd April 2019
+Circulation list: All project members (except Peter and Brandon), plus project manager
+Author: Fred Ziegler
+Date of minutes: 4th April.
+Version: 1.0
+
+Matters arising
+===============
+
+1. Fred updated the current config_refs file to include a reference to the newly-submitted Design Specification document, but did not update the document type and format as planned (point 1 of minutes of March 27th). He will update it soon.
+ACTION: ffz
+
+2. Progress with the text-based menu was not discussed (point 2 of minutes of March 27th).
+ACTION: Bej31
+
+3. The Design Specification document was updated and uploaded on time (point 3 of minutes of March 27th).
+
+4. Fred did not progress with the JavaFX spike work (point 4 of minutes of March 27th). He will aim to finish it soon.
+ACTION: ffz
+
+5. Further updates were made to incorrect file locations (point 5 of minutes of March 27th). A few files still remain in the incorrect location (in part due to inactive group members), and these will be fixed in the near future.
+ACTION: Bej31, rfs11, ffz
+
+6. Sid did some work on updating the Test Specification, and Fred has not yet started his side of the update (point 7 of minutes of March 27th). A review meeting will be held later this week (potentially on Friday 5th April), so the two will aim to make some significant updates for then.
+ACTION: ffz, sil19
+
+7. Sid and Ben W. have started research and spike work into Android Studio (point 8 of minutes of March 27th). This work will continue.
+ACTION: sil19, bew46
+
+8. Ben J. and Ben W. updated the appearance of the interface diagrams (point 9 of minutes of March 27th).
+
+9. No progress was made with spike work regarding Google Maps API (point 10 of minutes of March 27th), but work in this area will be pursued.
+ACTION: bew46, rur7
+
+10. Runar uploaded and maintained a list of the filters to be used in the software (point 11 of minutes of March 27th).
+
+New business
+============
+
+11. Rupert may be leaving the course in the near future. As a result, his responsibilities will be delegated to others, his GitLab access level may be reduced in the future, and his de facto role of Deputy QA Manager may be reassigned. He may still be available to help the group with light work, and this will be discussed.
+ACTION: rur7, ffz
+
+12. Ben W. will make/update a visualisation of the "pathways" available through the software interface(s).
+ACTION bew46
+
+13. Brandon's access level to the GitLab project will be reduced to that of a guest, such that he can stay up-to-date with the project and credited appropriately for his work, but otherwise will not be able to significantly interact with the project for the time being.
+ACTION: ffz
+
+AOB
+===
+
+14. Although it is not expected of the group, the potential to make progress on the project over the Easter break was discussed. If any progress is made, blog updates are expected as usual, as well as communication with the group to ensure the smooth operation of GitLab.
+
+15. Room booking options for the intensive work week were discussed, including the Hugh Owen library's system for booking, as well as an online form where users can book rooms located around the university campus. Whichever room(s) are eventually selected will have to be booked two weeks in advance, and require two computers/laptops minimum (as some group members cannot transport their own equipment easily).
+
+16. Future and current tasks related to programming will be broken down into quantifiable steps, and listed as individual issues on the GitLab issues system.
+
+17. Whenever an unassigned issue is created on GitLab, the group should be manually made aware of its creation as there are no automatic e-mails sent out.
+
+18. Because of reductions in group size, the role of QA Manager has been officially transferred to Fred and Deputy QA Manager will likely be reassigned in the near future.
+
+ffz@aber.ac.uk 4th April 2019

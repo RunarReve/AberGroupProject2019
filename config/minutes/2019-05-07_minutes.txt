@@ -1,0 +1,46 @@
+Project: Group Project 09
+Meeting: General Document Review
+Persons present:  All project members except Peter (still no contact with group), Brandon (no longer on the course), and Rupert (no longer in the group)
+Place and date of meeting: Think Tank, Llandinam, Tuesday 7th May 2019
+Circulation list: All project members (except Peter, Brandon, and Rupert)
+Author: Fred Ziegler
+Date of minutes: 7th May.
+Version: 1.0
+
+Matters arising
+=============== 
+
+New business
+============
+
+1. Runar has written the End-of-Project Report. A few minor issues were corrected during the review. He will continue to update the document before the deadline, especially adding to section 2, or reformatting the spacing following it at the very least.
+ACTION: rur7
+
+2. Ben W. has written the Project Maintenance Manual for the mobile software. He needs to: complete section 3; mention the buttons that do not function as intended; complete section 10 (for example, by referring to storage requirements for the app and the associated data); and potentially expand on bugs in section 8.
+ACTION: bew46
+
+3. Runar needs to write the Project Maintenance Manual for the desktop software.
+ACTION: rur7
+
+4. Fred needs to read the Quality Assurance documents and decide whether the two manuals should exist as one document or two.
+ACTION: ffz
+
+5. We reviewed the Design Specification document as a group. Runar still needs to expand on his description of the database. Runar and Ben W. need to update the diagrams in section 5 to reference specific function names. Ben W. needs to update the section on creating lists. Fred needs to update the UML diagrams to reflect name changes and omitted variables.
+ACTION: rur7, bew46, ffz
+
+6. We briefly reviewed the Test Specification document, although the document itself is outdated and the updates exist in fragments of external documents. Fred needs to finish updating the mobile tests, and then merge his tests with Sid's updated desktop tests in a final release of the Test Specification document.
+ACTION: ffz
+
+7. Sid needs to add the acceptance tests to the Project Test Report. He could refer to the End-of-Project Report as this document provides descriptions of the final product's capabilities.
+ACTION: sil19
+
+8. We reviewed the User Interface Specification, and added Ben J.'s name to the title page to reflect his contributions to the document. Ben W. needs to evaluate section 2.3 and check that it is fleshed out.
+ACTION: bew46
+
+9. Ben J. will read over the documents to catch obvious issues in spelling and grammar.
+ACTION: bej31
+
+AOB
+===
+
+ffz@aber.ac.uk 7th May 2019

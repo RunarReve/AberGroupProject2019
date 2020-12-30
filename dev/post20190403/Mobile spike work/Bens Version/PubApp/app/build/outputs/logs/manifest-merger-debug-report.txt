@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b533e6038b4f54649527d9e2169221b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/699849286ef525d267e3fa02cea42bee/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0190bca5f875b4af14dce5f39c49dced/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e7676e818338a9ed9101b94f8ef414b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/71ef8e7ad2f4946c84e70c2720fc11ab/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/f2a11ee232d8047613e4b1f3c2d87679/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/724a73fff593f8310138558caa6cc326/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c3911adc589060850e22552610a27167/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee9074dbc6b5a58d0a2f03b989e352fc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f47fb1ecf0ee73487bb596dfdd598e01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/10e3c2ff235e07504a013ddc28d30265/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8573406bb817a3852177e5343a05d479/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/57c34b73786c86e2430df992d31ce97d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f393ca2a7852fd88f7d3d9a462d92e58/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/693fde44a24b43fc9a35427c4080a42f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e038b7dfcadfbb37c42a26a35c5c25b0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0cfd09ff8b9ed46ec8080f29f55466e2/AndroidManifest.xml:17:1-22:12
+INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+		INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:2:1-49:12
+		INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:12:5-47:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/699849286ef525d267e3fa02cea42bee/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/699849286ef525d267e3fa02cea42bee/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/71ef8e7ad2f4946c84e70c2720fc11ab/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/71ef8e7ad2f4946c84e70c2720fc11ab/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/f2a11ee232d8047613e4b1f3c2d87679/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/f2a11ee232d8047613e4b1f3c2d87679/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/724a73fff593f8310138558caa6cc326/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/724a73fff593f8310138558caa6cc326/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c3911adc589060850e22552610a27167/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c3911adc589060850e22552610a27167/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee9074dbc6b5a58d0a2f03b989e352fc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee9074dbc6b5a58d0a2f03b989e352fc/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:18:9-40
+activity#aber.group9.pubapp.SelectLocationActivity
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:19:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:23:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:34:9-36:55
+	android:value
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:35:13-58
+activity#aber.group9.pubapp.MapActivity
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:38:9-40:66
+	android:label
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:40:13-63
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:39:13-40
+activity#aber.group9.pubapp.PubListActivity
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:41:9-53
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:41:19-50
+activity#aber.group9.pubapp.EmptyTourActivity
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:42:9-55
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:42:19-52
+activity#aber.group9.pubapp.CongratulationActivity
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:43:9-60
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:43:19-57
+activity#aber.group9.pubapp.PubInfoActivity
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:44:9-53
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:44:19-50
+activity#aber.group9.pubapp.FilterActivity
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:45:9-52
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:45:19-49
+activity#aber.group9.pubapp.HomeActivity
+ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:46:9-59
+	android:name
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml:46:19-47
+uses-sdk
+INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b533e6038b4f54649527d9e2169221b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b533e6038b4f54649527d9e2169221b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/699849286ef525d267e3fa02cea42bee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/699849286ef525d267e3fa02cea42bee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0190bca5f875b4af14dce5f39c49dced/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0190bca5f875b4af14dce5f39c49dced/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e7676e818338a9ed9101b94f8ef414b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e7676e818338a9ed9101b94f8ef414b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/71ef8e7ad2f4946c84e70c2720fc11ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/71ef8e7ad2f4946c84e70c2720fc11ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/f2a11ee232d8047613e4b1f3c2d87679/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/f2a11ee232d8047613e4b1f3c2d87679/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/724a73fff593f8310138558caa6cc326/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/724a73fff593f8310138558caa6cc326/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c3911adc589060850e22552610a27167/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c3911adc589060850e22552610a27167/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee9074dbc6b5a58d0a2f03b989e352fc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee9074dbc6b5a58d0a2f03b989e352fc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f47fb1ecf0ee73487bb596dfdd598e01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f47fb1ecf0ee73487bb596dfdd598e01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/10e3c2ff235e07504a013ddc28d30265/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/10e3c2ff235e07504a013ddc28d30265/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8573406bb817a3852177e5343a05d479/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8573406bb817a3852177e5343a05d479/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/57c34b73786c86e2430df992d31ce97d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/57c34b73786c86e2430df992d31ce97d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f393ca2a7852fd88f7d3d9a462d92e58/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f393ca2a7852fd88f7d3d9a462d92e58/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/693fde44a24b43fc9a35427c4080a42f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/693fde44a24b43fc9a35427c4080a42f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e038b7dfcadfbb37c42a26a35c5c25b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e038b7dfcadfbb37c42a26a35c5c25b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0cfd09ff8b9ed46ec8080f29f55466e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0cfd09ff8b9ed46ec8080f29f55466e2/AndroidManifest.xml:20:5-44
+INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c3911adc589060850e22552610a27167/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+		INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+		ADDED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+		INJECTED from /impacs/bew46/AndroidStudioProjects/Backup Projects/PubApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-maps-16.1.0.aar/c8a89630ce8348da16144b7d03a3651e/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/71ef8e7ad2f4946c84e70c2720fc11ab/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/71ef8e7ad2f4946c84e70c2720fc11ab/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/71ef8e7ad2f4946c84e70c2720fc11ab/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/71ef8e7ad2f4946c84e70c2720fc11ab/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/724a73fff593f8310138558caa6cc326/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/724a73fff593f8310138558caa6cc326/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/724a73fff593f8310138558caa6cc326/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c3911adc589060850e22552610a27167/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee9074dbc6b5a58d0a2f03b989e352fc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee9074dbc6b5a58d0a2f03b989e352fc/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c3911adc589060850e22552610a27167/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /impacs/bew46/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c3911adc589060850e22552610a27167/AndroidManifest.xml:27:13-51

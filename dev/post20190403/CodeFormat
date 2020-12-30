@@ -1,0 +1,77 @@
+No \ns
+
+Copyright section:
+    -Indentation
+    -File name
+    -Date
+
+\n
+
+Package
+
+\n
+
+Imports:
+    -Grouped
+    -Redundant deleted
+
+Class Javadoc:
+    -Class name w/o packages +.
+    -<p>
+    -Class description +.
+    -\n
+    -@author name (username)
+    -@version v_number description
+    [optional]-@see ______
+
+Class name + extends
+
+\n
+
+[optional] implements + \n
+
+Constants:
+    -Grouped
+    -Redundant deleted
+
+\n
+
+Static vars:
+    -Grouped
+    -Redundant deleted
+
+\n
+
+Static methods:
+    -Grouped
+    -Redundant deleted
+
+\n
+
+Variables:
+    -Grouped
+    -Redundant deleted
+
+\n
+
+Methods:
+    -Constructors first
+    -Getters/setters second
+    -Misc. last
+    -\n between
+    -Javadoc each:
+        -Description +.
+        -\n
+        -@param + description +.
+        -@return + description +.
+    -Method name
+    -[optional] throws on next line
+    
+
+No \ns
+
+After...:
+    -ALL TODOs ADDRESSED
+    -NO SUPERFLUOUS NEWLINES
+    -SEE SEQA09, Section 5.4 TO MINIMISE/REFINE IN-LINE COMMENTS
+    -CHECK INDENTATION

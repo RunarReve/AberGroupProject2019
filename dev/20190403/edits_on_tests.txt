@@ -1,0 +1,16 @@
+-fix on tests
+
+inputs needs inputs, eg. SE-007 add pub: "Bar46"....All variables...
+   and should not have no exactly same inputs, eg. SE-007, SE-008, SE-009
+   
+talk to UI to flash out what has changed
+
+move test, like add, search, and remove to be after each other, so they are after each other.
+
+-For all
+	Delete town, safe 
+	Don't look at memes during meeting
+	if(easter != true)
+		DON'T LOOK AT MEMES
+
+

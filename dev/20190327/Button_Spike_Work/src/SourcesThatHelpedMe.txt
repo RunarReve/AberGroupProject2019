@@ -1,0 +1,12 @@
+A basic tutorial with example code that can be used to set up a scene with a button:
+https://o7planning.org/en/11091/javafx-button-tutorial
+
+An overview of some of the container types:
+http://zetcode.com/gui/javafx/layoutpanes/
+
+Example code of mouse over/off events:
+http://www.java2s.com/Code/Java/JavaFX/MouseinandouteventforButton.htm
+
+----------
+
+All sources were accessed on 26/03/19 for the purpose of developing this spike work.

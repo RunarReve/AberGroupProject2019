@@ -1,0 +1,59 @@
+Project: Group Project 09
+Meeting: Weekly Project Meeting
+Persons present:  All project members except Peter (still no contact with group), Brandon (no longer on the course), and Rupert (illness)
+Place and date of meeting: C57a, Llandinam, Wednesday 27th March 2019
+Circulation list: All project members (except Peter and Brandon), plus project manager
+Author: Fred Ziegler
+Date of minutes: 27th March.
+Version: 1.0
+
+Matters arising
+===============
+
+1. Fred continued to work on tidying the repository (point 1 of minutes of 20th March). He did not update the config_refs file, but has chased some concerns about it with the client, and aims to update it soon.
+ACTION: ffz
+
+2. Ben J. has not progressed with the text-based menu interface (point 4 of minutes of 20th March). He will aim to have it completed before the Easter break.
+ACTION: Bej31
+
+3. Some more progress was made with the Design Specification document (point 6 of minutes of 20th March). Ben W. is still progressing with the sequence diagrams. More work will be done, and a review will be held soon to steer its development before the submission deadline next week.
+ACTION: rur7, bew46, rfs11
+
+4. Fred completed some spike work demonstrating the use of buttons to interact with external classes (point 8 of minutes of 20th March). He has been assigned to write some more code to demonstrate how to navigate between scenes, how to print text into the scene, and some more complex communication with external classes. 
+ACTION: ffz
+
+5. Some members of the group updated the names/locations of the files that they authored (point 9 of minutes of 20th March), but not everybody. The remaining members will perform these updates before the next tutorial.
+ACTION: Bej31, rfs11, sil19
+
+6. Ben W. created issues on GitLab based on the client's feedback on the User Interface Specification document (point 10 of minutes of 20th March).
+
+7. Sid and Fred deconstructed the task of improving the Test Specification document based on the client's feedback, and translated these tasks to the Issue System (point 11 of minutes of 20th March). During the next few days, they will update the Test Specification accordingly. A formal review meeting for all submitted documents will be held sometime late next week.
+ACTION: ffz, sil19
+
+New business
+============
+
+8. Sid and Ben W. will start playing around with Android Studio as a form of spike work in order to understand it better in time for creating the mobile software. 
+ACTION: sil19, bew46
+
+9. Ben J. and Ben W. will work on updating the user interface diagrams in order to look closer to the end product, and to cover all possible screens.
+ACTION: Bej31, bew46
+
+10. Ben W. and Runar will do some spike work in order to embed a Google Maps interface into a Java program.
+ACTION: bew46, rur7
+
+11. Runar will upload a list of the chosen filter attributes to GitLab, in order to help Fred and Sid describe them in the Test Specification document.
+ACTION: rur7
+
+AOB
+===
+
+12. It was noted that the group's efforts should shift to a focus on programming, in order to ease the workload for the intensive week after the Easter break.
+
+13. Brandon has officially left the course for the remainder of this academic year.
+
+14. Rupert is experiencing ongoing personal problems, so his responsibilities may be delegated to others in order to ease his workload.
+
+15. The group will research options for booking a computer room for the intensive work week after the Easter break. It was emphasised that booking a personal room, rather than hopping between classrooms or sharing a large computer suite, would probably be more conducive to good quality work. 
+
+ffz@aber.ac.uk 27th March 2019

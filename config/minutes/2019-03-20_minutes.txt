@@ -1,0 +1,58 @@
+Project: Group Project 09
+Meeting: Weekly Project Meeting
+Persons present:  All project members except Peter (still no contact with group), Brandon (absent for personal reasons), Sid (medical appointment), and Rupert (illness)
+Place and date of meeting: C57a, Llandinam, Wednesday 20th March 2019
+Circulation list: All project members (except Peter), plus project manager
+Author: Fred Ziegler
+Date of minutes: 20th March.
+Version: 1.0
+
+Matters arising
+===============
+
+1. Fred updated the GitLab repository to reflect the correct directory structure (point 2 of minutes of 13th March), and changed the project name to "GroupProject09" (as opposed to "GroupProject9"). Additional progress is needed, including: the creation of a config_refs file in the correct format; renaming the project's root directory to reflect the updated project name; and updating the minutes files so that all documents are present and saved as .txt files.
+ACTION: ffz
+
+2. Ben J. continued to add to the mobile UI design documents over the last week (point 3 of minutes of 13th March).
+
+3. Rupert met with Fred to help him get familiar with JavaFX, and up to speed with the current UI creations (point 6 of minutes of 13th March).
+
+4. Ben J. has not made much progress with the text-based menu interface (point 7 of minutes of 13th March), but has discussed his availability to work with the group and hopes to make a start by next week's tutorial.
+ACTION: Bej31
+
+5. Sid created a test filter system (point 8 of minutes of 13th March).
+
+6. Ben W., Runar, and Rupert worked heavily on the Design Specification document over the past week (point 9 of minutes of 13th March). An informal review was also held on Monday 18th to guide its development. It was discovered on the 19th that the due date for this document for our group is actually 5PM on the 2nd of April, so it was not formally submitted before today's tutorial as planned. Further progress will be made on this document over the next two weeks, with emphasis on Rupert and Ben W. adding sequence diagrams to the document. A formal review meeting concerning the document will be conducted at some point in the near future.
+ACTION: bew46, rur7, rfs11
+
+7. Fred produced a slideshow explaining GitLab's Issues system (point 10 of minutes of 13th March). It is suggested that all group members read it to better understand how to make appropriate use of the repository.
+
+New business
+============
+
+8. Fred and Rupert will create code to link aspects of the UI with the backend code of the software.
+ACTION: ffz, rfs11
+
+9. All those that had their files removed from the recently-deleted "presenting" directory will need to move their files to the appropriate week's subdirectory under "dev". Screenshots within the folder "dev/20190320/ffz_originalPresentingFolderScreenshots" may assist in this process. All files and directories involved should also be renamed to remove the username prefixes that were assigned to them during the directory restructure.
+ACTION: Bej31, bew46, ffz, rfs11, rur7, sil19
+
+10. Ben W. will use the Issues system to register and complete tasks relevant to the feedback of the User Interface Specification.
+ACTION: bew46
+
+11. Sid and Fred will work together to deconstruct the tasks associated with improving the Test Specification, log appropriate issues on GitLab, and start working through them.
+ACTION: ffz, sil19
+
+AOB
+===
+
+12. Accessibility issues relating to the project's database were brought up. The group will explore the option of using a VPN to access the database remotely.
+
+13. The process of creating JUnit tests for the software was discussed. It is undecided whether the group will elect a small team to create most of the tests, or whether tests will be made by those programming a given feature, but the SE.QA.06 document on testing encourages the latter (see section 4).
+
+14. The format for config reference codes within assessed documents was discussed. The project manager confirmed that these codes are to be created by the group, and that the format must remain consistent between them.
+
+15. It was encouraged that all group members should upload an identifiable image to their GitLab profile to make it easier to distinguish users at a glance.
+
+16. It was emphasised that all commits to GitLab related to issues listed in the Issues system must feature the issue number in their commit comment.
+
+ffz@aber.ac.uk 20th March 2019

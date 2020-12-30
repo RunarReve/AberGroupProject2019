@@ -1,0 +1,13 @@
+Different filtering opptions:
+
+Food
+Real Ale
+Clubs
+Allows Dogs
+Welsh
+Family Friendly
+Duke Box
+Quiz
+
+To make it simple it should be boolean
+and if the DB allows it, also a NULL/ N/A opption

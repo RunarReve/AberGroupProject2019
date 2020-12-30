@@ -1,0 +1,30 @@
+Everrything is boolean
+
+Set Filters:
+
+Has Food
+Club
+Allows Dogs
+Loud Music
+HasRealAle
+TV
+
+
+
+Filters removed:
+
+JukeBox: maybe not the most importent to have
+
+Welsh: It's not that easy to figure out what pub is welsh 
+
+Family friendly: What deffy family friendly?
+
+--------------------------------------
+Filters added:
+
+TV: Really easy to collect and can would be a good filter
+
+
+
+
+This was decided in meeting of 29th of March

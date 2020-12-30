@@ -1,0 +1,24 @@
+MISC:
+-Create a realistic set of data based on 15 Aberystwyth pubs
+-Create another set of data for the purposes of testing (eg. one with a long name for boundary testing, one with no name...)
+-Decide on the filter conditions for a barebones product
+
+DESKTOP:
+-Upload/create up-to-date spreadsheet for desktop tests
+-Merge test 001 with test 002
+-Redo desktop tests to refer to the new Aberystwyth data
+-Add tests for filter combinations/attempts/paths
+-Reorder desktop tests into a logical order for testing
+
+MOBILE:
+-Upload/create up-to-date spreadsheet for mobile tests 
+-Reimplement tests for all filters
+-Redo mobile tests to refer to the new Aberystwyth data
+-Reorder mobile tests into a logical order for testing
+
+FINAL:
+-Regroup tests from both sides
+-Give them chronological test numbers
+-Remake document to fix formatting issues (basically a lot of copy+pasting)
+-Add changes to the change history section, increment version #, and update status to "For Review"
+-Arrange for a formal review

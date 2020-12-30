@@ -1,0 +1,134 @@
+Bar46
+
+Has Food: yes
+Club:N/A
+Allows Dogs: N/A
+Loud Music:N/A
+HasRealAle:N/A
+TV:N/A
+
+Mill
+
+Has Food:N/A
+Club:N/A
+Allows Dogs:N/A
+Loud Music:N/A
+HasRealAle:N/A
+TV:N/A
+
+Harleys 
+
+Has Food: No
+Club:Yes and No
+Allows Dogs: No
+Loud Music: Yes
+HasRealAle: No?
+TV: No
+
+Downies
+
+Has Food: N/A
+Club: N/A
+Allows Dogs: N/A
+Loud Music: N/A
+HasRealAle: N/A
+TV: N/A
+
+Scholars
+
+Has Food:N/A
+Club:N/A
+Allows Dogs:N/A
+Loud Music:N/A
+HasRealAle:N/A
+TV:N/A
+
+Pier
+
+Has Food: NO
+Club: Yes
+Allows Dogs: NO
+Loud Music: Yes
+HasRealAle: N/A
+TV: Yes and No
+
+Yokos
+
+Has Food:N
+Club:Y
+Allows Dogs:N
+Loud Music:Y
+HasRealAle:N
+TV:Y
+
+Inn On
+
+Has Food:Y
+Club:N
+Allows Dogs:N/A
+Loud Music:N
+HasRealAle:N/A
+TV:Y
+
+Yr Hen Orsaf, Spoons
+
+Has Food:Y
+Club:N
+Allows Dogs:N
+Loud Music:N
+HasRealAle:Y?
+TV:Y
+
+White horse 
+
+Has Food:Y
+Club:N
+Allows Dogs:Y
+Loud Music:N
+HasRealAle:N/A
+TV:Y
+
+Cambrian 
+
+Has Food:N
+Club:N
+Allows Dogs:N
+Loud Music:N
+HasRealAle:N
+TV:N
+
+Libertine
+
+Has Food:N
+Club:N
+Allows Dogs:N/A
+Loud Music:N/A
+HasRealAle:N/A
+TV:N/A
+
+Kanes
+
+Has Food:N/A
+Club:N/A
+Allows Dogs:N/A
+Loud Music:N/A
+HasRealAle:N/A
+TV:N/A
+
+Academy 
+
+Has Food:N/A
+Club:N/A
+Allows Dogs:N/A
+Loud Music:N/A
+HasRealAle:N/A
+TV:N/A
+
+Angel
+
+Has Food:N/A
+Club:N/A
+Allows Dogs:N/A
+Loud Music:N/A
+HasRealAle:N/A
+TV:N/A

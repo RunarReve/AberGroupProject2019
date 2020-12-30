@@ -1,0 +1,4 @@
+#Wed May 01 13:11:55 BST 2019
+base.0=/impacs/bew46/GroupProject/GroupProject09/src/mobile_software/sliders/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

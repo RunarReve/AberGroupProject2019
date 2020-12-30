@@ -1,0 +1,13 @@
+1) Merge test 001 and test 002
+2) Reformat the test spec as follows:
+    -Create a set of test data in the appendix of the test spec;
+    -Redo the desktop side to go through the process of implementing the aforementioned data;
+    -Redo the mobile to refer to the aforementioned data;
+    -Ungroup tests with the same functional requirements to make order of tests more logical for the testers (where appropriate).
+3) Decide on the baseline tags/filters (NOT the flair ones) 
+4) Create test(s) for all tags in the desktop system
+5) Reimplement tag tests for the mobile system
+6) Go over tests related to inputs and see if you can make consistent invalid input tests (where appropriate) for all of these areas
+7) Make sure test numbers are chronological
+8) Remake test spec document to fix formatting issues identified just prior to previous submission 
+9) Add changes to change history section, update to "For Review", update version #, etc.

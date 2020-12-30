@@ -1,0 +1,5 @@
+Is the software package restricted only to "pubs", or are "bars" and "clubs" also suitable for inclusion?
+
+What is meant by a pub's "review" (described in FRM3): would this be some sort of rating, or perhaps a brief description of the pub?
+
+What is the format for Test Reference IDs? Or can it be made-up by the developers?
